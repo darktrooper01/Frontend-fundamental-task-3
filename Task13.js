@@ -1,0 +1,3 @@
+let word ="Javascript";
+
+for 
